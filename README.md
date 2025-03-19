@@ -19,7 +19,7 @@ To address these challenges, **Splendor Analytics Retail has decided to implemen
 
 ### **Project Introduction**  
 
-This project aims to **design and develop a robust relational database system** for ABC Retail. The system will ensure **seamless data management, automation of business operations, and efficient decision-making** through structured data storage and retrieval.  
+This project aims to **design and develop a robust relational database system** for Splendor Analytics Retail. The system will ensure **seamless data management, automation of business operations, and efficient decision-making** through structured data storage and retrieval.  
 
 The database will cover **the following core functionalities**:  
 1. **Customer Management** – Handling customer registrations, orders, and reviews.  
